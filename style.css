@@ -1,0 +1,25 @@
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    text-align: center;
+}
+
+.general-menu {
+    text-align: center;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+h3 {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
