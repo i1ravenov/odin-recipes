@@ -13,6 +13,7 @@ img {
     text-align: center;
     list-style-type: none;
     font-size: 20px;
+    display: flex;
 }
 
 h3 {
@@ -22,4 +23,9 @@ h3 {
 
 div {
     text-align: center;
+}
+
+.item {
+    padding: 30px;
+    margin: auto;
 }
